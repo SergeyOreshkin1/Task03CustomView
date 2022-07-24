@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task03CustomView</string>
+    <string name="analogClock">Аналоговые часы</string>
+    <string name="flags">Флаги</string>
+</resources>
